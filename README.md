@@ -6,8 +6,7 @@ This repository contains a MATLAB-based graphical user interface (GUI) developed
 - Prediction of Cd for sharp and broad-crested side weirs
 - User-friendly GUI (MATLAB App Designer)
 - Built-in trained GPR model
-- Input validation within training range
-- Standalone executable (no MATLAB required)
+- Input range validation
 
 ## Input Parameters
 - y1: upstream flow depth
