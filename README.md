@@ -1,4 +1,4 @@
-**Unified GPR Model for Sharp- and Broad-Crested Trapezoidal Side Weirs**
+# Unified GPR Model for Sharp- and Broad-Crested Trapezoidal Side Weirs
 
 This repository contains a MATLAB-based graphical user interface (GUI) developed for predicting the discharge coefficient (Cd) of trapezoidal side weirs using a Gaussian Process Regression (GPR) model.
 
